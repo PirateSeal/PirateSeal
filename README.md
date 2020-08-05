@@ -56,7 +56,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PirateSeal&show_icons=true&hide_border=true "PirateSeal's Github Stats")
 
 [intech]: https://www.intechinfo.fr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/tcousin-pseal/
 
 [vscode]: https://code.visualstudio.com
 [vs]: https://visualstudio.microsoft.com
