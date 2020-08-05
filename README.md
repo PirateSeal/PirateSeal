@@ -31,14 +31,11 @@
 [<img alt="HTML5" src="https://img.icons8.com/color/480/000000/html-5.png" width="40px"/>][html]
 [<img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png" width="40px"/>][css]
 <br>
-
 [<img alt="VueJs" src="https://img.icons8.com/color/48/000000/vue-js.png" width="40px"/>][vue]
 [<img alt="C# & ASP.NET" src="https://img.icons8.com/color/500/000000/c-sharp-logo.png" width="40px"/>][c#]
 [<img alt="Database architecture" src="https://img.icons8.com/fluent/96/000000/database.png" width="40px"/>][sql]
 [<img alt="SQL Server" src="https://img.icons8.com/color/480/000000/microsoft-sql-server.png" width="40px"/>][sql-server]
-
 <br>
-
 [<img alt="Photoshop" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" width="40px"/>][adobe]
 [<img alt="Illustrator" src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" width="40px"/>][adobe]
 
