@@ -50,7 +50,8 @@
 
 ## Here are some highlights 😁
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PirateSeal&show_icons=true&hide_border=true "PirateSeal's Github Stats")
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PirateSeal&show_icons=true&hide_border=true&count_private=true&hide=prs,issues,contribs "PirateSeal's Github Stats")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PirateSeal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [intech]: https://www.intechinfo.fr
 [linkedin]: https://www.linkedin.com/in/tcousin-pseal/
