@@ -1,4 +1,4 @@
-# Hello there, I'm Thomas aka PirateSeal 👋
+# Hello there, I'm Thomas aka PirateSeal 👋🏻
 
 ## I'm a Software Engineer student at [INTECH][intech]
 
