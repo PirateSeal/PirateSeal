@@ -4,7 +4,7 @@
 
 - 🌱 I’m learning how to create APIs and WebApps
 - 🐋 And containerizing them with Docker !
-- 🥅 My 2020-2021 Goals: get myself into the DevOps philosophy
+- 🥅 My 2021-2022 Goals: go deeper into DevOps with docker, Jenkins and learn more about Kubernetes!
 - 🎮 And I'm a passionate video gamer !
 
 ---
