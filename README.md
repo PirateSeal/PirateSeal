@@ -2,10 +2,11 @@
 
 ## I'm a Software Engineer student at [INTECH][intech]
 
-- 🌱 I’m learning how to create APIs and WebApps
-- 🐋 And containerizing them with Docker !
-- 🥅 My 2021-2022 Goals: go deeper into DevOps with docker, Jenkins and learn more about Kubernetes!
-- 🎮 And I'm a passionate video gamer !
+🌱 I’ve learned how to create APIs and WebApps during my scholarship<br>
+🐋 And containerizing them with Docker while discovering the DevOps philosophy!<br>
+🦀 I'm loving doing some Rust on my free time!<br>
+🥅 My 2022-2023 goals are to master docker, become friends with the Jenkins' waiter and dive into Kubernetes!<br>
+🎮 And I'm a passionate video gamer!
 
 ---
 
