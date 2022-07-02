@@ -4,7 +4,7 @@
 
 🌱 I’ve learned how to create APIs and WebApps during my scholarship<br>
 🐋 And containerizing them with Docker while discovering the DevOps philosophy!<br>
-🦀 I'm loving doing some Rust on my free time!<br>
+🦀 I'm loving coding my side projects in Rust!<br>
 🥅 My 2022-2023 goals are to master docker, become friends with the Jenkins' waiter and dive into Kubernetes!<br>
 🎮 And I'm a passionate video gamer!
 
